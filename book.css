@@ -13,12 +13,12 @@ img{
     
 }
 #N{
-    color: brown;
+    color: red;
     text-align: center;
     font-style: italic;
     font-weight: 500px;
 }
 h3{
-    color: blue;
+    color: rgb(12, 12, 221);
     margin-top: -24px;
 }
