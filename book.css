@@ -1,0 +1,24 @@
+div{
+    height: 500px;
+    width:20%;
+    /* border: black 5px solid;  */
+    float: left;
+    padding:20px;
+    margin-left: 30px;
+    
+}
+img{
+    height: 300px;
+    width: auto;
+    
+}
+#N{
+    color: brown;
+    text-align: center;
+    font-style: italic;
+    font-weight: 500px;
+}
+h3{
+    color: blue;
+    margin-top: -24px;
+}
